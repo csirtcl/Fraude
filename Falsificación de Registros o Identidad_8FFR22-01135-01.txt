@@ -1,0 +1,15 @@
+CSIRT-CL
+
+IoC's de Falsificación de Registros o Identidad
+Informe Codigo:8FFR22-01135-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+https://www.sanclemente[.]cl/backup123/selama/data/china-mail/cn/comfirmations-compte.php
+
+
+Dominios
+----------------------------------------------------------------
+sanclemente.cl	[190.121.17.234]
