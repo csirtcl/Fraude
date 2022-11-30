@@ -1,0 +1,17 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH22-00663-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+https://bit[.]ly/3Ub4EKA?l=www.bancoripley.cl
+https://prisonjailexpert[.]com/bancoripley/cuenta-sclv/
+https://web.bancoripley.cl.buckrealty[.]net/1669637408/login
+
+
+Dominios
+----------------------------------------------------------------
+buckrealty.net	[64.91.247.208]
