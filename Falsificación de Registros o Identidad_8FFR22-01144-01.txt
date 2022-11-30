@@ -1,0 +1,15 @@
+CSIRT-CL
+
+IoC's de Falsificación de Registros o Identidad
+Informe Codigo:8FFR22-01144-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+https://clientes-banestado.click/WqTvcFQDmpdBcgzG/url?source=usg&pf_rd_r=4ndfjpmphkc6
+
+
+Dominios
+----------------------------------------------------------------
+mnhsmstado.site	[104.21.56.178]
