@@ -1,0 +1,16 @@
+CSIRT-CL
+
+IoC's de Falsificación de Registros o Identidad
+Informe Codigo:8FFR22-01147-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+https://nostracontrical[.]com/cuentas/cuenta-test/
+https://crownverano[.]club/1669232169/portada/personas/home.asp
+
+
+Dominios
+----------------------------------------------------------------
+crownverano.club	[162.241.60.25]
