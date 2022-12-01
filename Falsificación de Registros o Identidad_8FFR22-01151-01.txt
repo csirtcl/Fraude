@@ -1,0 +1,18 @@
+CSIRT-CL
+
+IoC's de Falsificación de Registros o Identidad
+Informe Codigo:8FFR22-01151-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+hXXps://carburo2.srtv[.]cl/wp-includes/blocks/linkedIn.com/linkedIn.com/login.php?dtfgt=%7B%7Bemail%7D%7D
+hXXps://carburo2.srtv[.]cl/wp-includes/theme-compat/linkedIn.com/linkedIn.com/login.php?email=test%40csirt.gov.cl
+hXXps://carburo2.srtv[.]cl/wp-includes/theme-compat/linkedIn.com/linkedIn.com/login.php?email=test%40csirt.gov.cl
+hXXps://carburo2.srtv[.]cl/wp-includes/theme-compat/linkedIn.com/linkedIn.com/login.php?email=test%40csirt.gov.cl
+
+
+Dominios
+----------------------------------------------------------------
+srtv.cl	[152.231.105.93]
