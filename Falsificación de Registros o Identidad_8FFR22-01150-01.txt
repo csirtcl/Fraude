@@ -1,0 +1,17 @@
+CSIRT-CL
+
+IoC's de Falsificación de Registros o Identidad
+Informe Codigo:8FFR22-01150-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+https://sagat[.]cl/eed/prepaid/
+https://sagat[.]cl/eed/prepaid/$/
+https://sagat[.]cl/eed/prepaid/$/signin?cmd=Chile&code=CL
+
+
+Dominios
+----------------------------------------------------------------
+santaelenagrapes.cl	[190.13.188.108]
