@@ -1,0 +1,24 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH22-00668-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+dickdejong@dickdejonghoveniers.nl
+----------------------------------------------------------------[87.250.153.190]
+
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+https://bit[.]ly/3VE72e1?l=www.bancoripley.cl
+https://www.miteg.com[.]co/bancoripley/cuenta-buld/
+https://web.bancoripley.cl.buckrealty[.]net/1669814271/login
+
+
+Dominios
+----------------------------------------------------------------
+buckrealty.net	[64.91.247.208]
