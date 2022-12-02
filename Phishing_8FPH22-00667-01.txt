@@ -1,0 +1,23 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH22-00667-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+apache@vmi1070625.contaboserver.net
+----------------------------------------------------------------[109.123.247.185]
+
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+https://nhmwcotitostado[.]info/activacion/cuenta-ulen/
+https://chezcrom[.]com/1669734595/imagenes/_personas/home/default.asp
+
+
+Dominios
+----------------------------------------------------------------
+chezcrom.com	[104.21.88.186]
