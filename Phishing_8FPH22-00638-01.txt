@@ -1,0 +1,16 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH22-00638-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+http://adventurerportrayal.cn/empresascopec/tb.php?hn=mt1667902051612
+https://8yue22.cn/6tpzpPYM/empresascopec/?_t=1667909914295#1667909921437
+
+
+Dominios
+----------------------------------------------------------------
+8yue22.cn	[104.21.77.105]
