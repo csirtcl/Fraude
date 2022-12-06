@@ -1,0 +1,24 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH22-00664-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+apache@vmi1063463.contaboserver.net
+----------------------------------------------------------------
+[185.241.151.94]
+
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+https://nhmwcotitostado[.]info/activacion/cuenta-ulen/
+https://melekcopeur[.]club/1669657753/imagenes/_personas/home/default.asp
+
+
+Dominios
+----------------------------------------------------------------
+melekcopeur.club	[172.67.145.74]
