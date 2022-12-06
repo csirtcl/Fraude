@@ -1,0 +1,16 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH22-00634-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+http://retrievalconverse.cn/soprole/tb.php?ju=gt1667573409024
+https://upceshop.cn/o4hfodFS/soprole/?_t=1667671047609#1667671050703
+
+
+Dominios
+----------------------------------------------------------------
+upceshop.cn	[172.67.182.117]
