@@ -1,0 +1,24 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH22-00672-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+apache@vmi1083053.contaboserver.net
+----------------------------------------------------------------
+[193.46.243.237]
+
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+https://nhmwcotitostado[.]info/activacion/cuenta-zlsn/
+https://smscotito[.]info/1670350927/imagenes/_personas/home/default.asp
+
+
+Dominios
+----------------------------------------------------------------
+smscotito.info	[213.136.93.164]
