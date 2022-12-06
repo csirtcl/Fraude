@@ -1,0 +1,15 @@
+CSIRT-CL
+
+IoC's de Falsificación de Registros o Identidad
+Informe Codigo:8FFR22-01141-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+https://mnhsmstado[.]site/1669223117/imagenes/_personas/home/default.asp
+
+
+Dominios
+----------------------------------------------------------------
+mnhsmstado.site	[47.87.139.183]
