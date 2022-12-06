@@ -1,0 +1,15 @@
+CSIRT-CL
+
+IoC's de Falsificación de Registros o Identidad
+Informe Codigo:8FFR22-01139-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+https://motoemotion{.}cl/wp-includes/js/tinymce/langs/htacces/os/
+
+
+Dominios
+----------------------------------------------------------------
+motoemotion.cl	[186.64.117.105]
