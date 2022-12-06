@@ -1,0 +1,15 @@
+CSIRT-CL
+
+IoC's de Falsificación de Registros o Identidad
+Informe Codigo:8FFR22-01133-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+https://idimaro.cl/admin/index.php
+
+
+Dominios
+----------------------------------------------------------------
+8yue22.cn	[200.73.115.31]
