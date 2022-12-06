@@ -1,0 +1,16 @@
+CSIRT-CL
+
+IoC's de Falsificación de Registros o Identidad
+Informe Codigo:8FFR22-01132-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+http://divisionstagnate.cn/SantaIsabelws/tb.php?ea=be1667828746300
+https://8yue22.cn/0W6Y2ZOX/SantaIsabelws/?_t=1667910410841#1667910416599
+
+
+Dominios
+----------------------------------------------------------------
+8yue22.cn	[104.21.77.105]
