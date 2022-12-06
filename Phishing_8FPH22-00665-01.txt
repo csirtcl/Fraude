@@ -1,0 +1,25 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH22-00665-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+aipcecocom@aipceco.com
+----------------------------------------------------------------
+[185.128.81.68]
+
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+https://bit[.]ly/3FbKOLb?l=www.bancoripley.cl
+https://wordpress-413449-1536776.cloudwaysapps[.]com/bancoripley/cuenta-iqdg/
+https://web.bancoripley.cl.buckrealty[.]net/1669662421/login
+
+
+Dominios
+----------------------------------------------------------------
+buckrealty.net	[64.91.247.208]
