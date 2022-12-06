@@ -1,0 +1,16 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH22-00637-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+http://classificationcriterion.cn/empresascopec/tb.php?wy=mh1667900210206
+https://8yue22.cn/PkkfZcpa/empresascopec/?_t=1667908737331#1667908740560
+
+
+Dominios
+----------------------------------------------------------------
+8yue22.cn	[104.21.77.105]
