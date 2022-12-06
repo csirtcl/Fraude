@@ -1,0 +1,16 @@
+CSIRT-CL
+
+IoC's de Falsificación de Registros o Identidad
+Informe Codigo:8FFR22-01138-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+https://delhome.cabanashuaquen[.]cl/public/TGOdpFODBEq8a5UfYxUA6dbm4VpIUfff
+https://delhome.cabanashuaquen[.]cl/public/TGOdpFODBEq8a5UfYxUA6dbm4VpIUfff/payment?
+
+
+Dominios
+----------------------------------------------------------------
+cabanashuaquen.cl	[186.64.118.55]
