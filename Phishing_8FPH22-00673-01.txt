@@ -1,0 +1,25 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH22-00673-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+www-data@zanet.pl
+----------------------------------------------------------------
+[89.25.162.51]
+
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+https://bit[.]ly/3BaZlEr?l=www.bancoripley.cl
+https://ethosmoveisplanejados.com[.]br/bancoripley/cuenta-frwc/
+https://web-bancoripley.cl.bigfishservices.com[.]au/1670418013/login
+
+
+Dominios
+----------------------------------------------------------------
+bigfishservices.com.au	[203.26.41.136]
