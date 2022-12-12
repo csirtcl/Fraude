@@ -1,0 +1,17 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH22-00675-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+https://bit[.]ly/3iTAYES?l=www.bancoripley.cl
+https://sam-tech[.]jp/bancoripley/cuenta-aiuk/
+
+
+
+Dominios
+----------------------------------------------------------------
+wedoitbest.com.au	[203.26.41.223]
