@@ -1,0 +1,16 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH22-00676-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+https://ucmstudio[.]info/activacion/cuenta-aotq/
+
+
+
+Dominios
+----------------------------------------------------------------
+celebrafans.com	[104.21.4.90]
