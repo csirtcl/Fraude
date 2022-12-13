@@ -1,0 +1,10 @@
+CSIRT-CL
+
+IoC's de Falsificación de Registros o Identidad
+Informe Codigo:8FFR22-01160-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+doitechile[.]shop
