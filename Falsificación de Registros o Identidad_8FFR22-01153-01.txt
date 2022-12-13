@@ -1,0 +1,53 @@
+CSIRT-CL
+
+IoC's de Falsificación de Registros o Identidad
+Informe Codigo:8FFR22-01153-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+www.schutzchile[.]com/
+https://www.merrellchile[.]com/
+www.drschollschile[.]com/
+www.propetchile[.]com/
+www.goldengooseoutletchile[.]com/
+www.goldengoosemchile[.]com
+www.lowaenchile[.]com/
+https://www.salomonchilecl[.]com/
+https://www.alohaschile[.]com/
+www.furla-chile.com/
+www.lowachilecl[.]com/
+www.costadelmarchile[.]com/
+www.obozchile[.]com/
+www.oliverpeopleschile[.]com/
+www.persolchile[.]com/
+www.mauijimchile[.]com/
+www.zapatosmephistochile[.]com
+www.merrellcl[.]com/
+https://www.pumachilecl[.]com/
+www.lasportiva-chile[.]com/
+www.pleaserchile[.]com/
+www.ryderwearchile[.]com/
+www.ropaobeychile[.]com/
+groundiesoutletchile[.]com/
+https://www.g-starchile[.]com/
+www.miumiuchile[.]com/
+www.chile-reebok.com/
+https://www.volcom-chile[.]com/
+outlettimberland-chile[.]com
+https://www.tiendaskechersonlinechile[.]com/
+www.aloyoga-chile[.]com/
+https://www.botashunterchile[.]cl/
+www.quiksilverchile[.]com/
+www.gantchile[.]com/
+www.jordanofertachile[.]com/
+www.nobullchiletiendas[.]com/
+www.hunterbootchile[.]com/
+www.sebagochileoutlet[.]com/
+https://www.michaelkorschile[.]com/
+www.onrunnerchile[.]com/
+www.tiendapumachile[.]com/
+www.woolrichchile[.]com/
+https://www.eccooutletchile[.]com/
+www.palmangels-chile[.]com/
