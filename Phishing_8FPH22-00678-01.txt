@@ -1,0 +1,17 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH22-00678-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+https://t[.]co/iivqY7ziPk
+https://gecochile[.]com/index/?index=index
+
+
+
+Dominios
+----------------------------------------------------------------
+kar-growth.com	[198.54.116.206]
