@@ -7,5 +7,7 @@ Nivel Riesgo: Alto
 
 URLs y Direcciones IP
 ----------------------------------------------------------------
+[5.255.62.156]
+[185.212.172.116]
 https://www.ropamujers[.]store/
 deitecl[.]com
