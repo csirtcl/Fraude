@@ -7,4 +7,5 @@ Nivel Riesgo: Alto
 
 URLs y Direcciones IP
 ----------------------------------------------------------------
+[172.67.178.111]
 https://www.clarks-cl.com/
