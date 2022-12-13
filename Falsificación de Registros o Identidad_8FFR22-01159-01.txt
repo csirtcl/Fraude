@@ -7,4 +7,5 @@ Nivel Riesgo: Alto
 
 URLs y Direcciones IP
 ----------------------------------------------------------------
+[104.160.5.170]
 https://www.merrellchiletiendas[.]com/
