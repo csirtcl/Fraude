@@ -1,0 +1,21 @@
+CSIRT-CL
+
+IoC's de Falsificación de Registros o Identidad
+Informe Codigo:8FFR22-01154-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+www.zapatoseccochile[.]com/
+www.caterpillarenchile[.]com/
+www.champion-chile[.]com/
+www.fila-chile[.]com/
+www.osiriszapatillaschile[.]com/
+www.doctormartenchile[.]com/
+www.lafumachile[.]com
+https://www.danneroutletchile[.]com/
+www.ua-chile[.]com
+www.vessichile[.]com/
+https://www.reebokchile-outlet[.]com/
+www.pranachile[.]com/
