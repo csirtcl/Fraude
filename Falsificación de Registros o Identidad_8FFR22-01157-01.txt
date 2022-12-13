@@ -1,0 +1,14 @@
+CSIRT-CL
+
+IoC's de Falsificación de Registros o Identidad
+Informe Codigo:8FFR22-01157-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+www.reefchile[.]com/
+www.gymsharkchilestore[.]com/
+www.tommyhilfigerchileoutlet[.]com/
+www.lottochile[.]com/
+www.louboutinchile[.]com/
