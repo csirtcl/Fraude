@@ -1,0 +1,18 @@
+CSIRT-CL
+
+IoC's de Falsificación de Registros o Identidad
+Informe Codigo:8FFR22-01155-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+www.koiyu[.]site
+www.clothingyoung[.]online
+www.billeterascl[.]online/
+www.vsetidonline[.]shop/
+www.bellearopaes[.]shop/
+www.clothingpromos[.]online/
+www.violatieon[.]shop/
+https://www.casacamas[.]store/
+https://www.psychobunnychile[.]com/
