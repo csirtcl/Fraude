@@ -1,0 +1,17 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH22-00677-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+https://bit[.]ly/3hgrIug?l=www.bancoripley.cl
+https://sam-tech[.]jp/bancoripley/cuenta-zwgg/
+
+
+
+Dominios
+----------------------------------------------------------------
+browshapesmi.com	[67.223.118.82]
