@@ -1,0 +1,17 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH22-00679-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+https://bit[.]ly/3FsyhSe?l=www.bancoripley.cl
+https://reisdaviau[.]pt/bancoripley/cuenta-gqha/
+
+
+
+Dominios
+----------------------------------------------------------------
+wonthaggicaravans.com.au	[203.26.41.136]
