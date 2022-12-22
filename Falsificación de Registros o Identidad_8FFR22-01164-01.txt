@@ -1,0 +1,15 @@
+CSIRT-CL
+
+IoC's de Falsificación de Registros o Identidad
+Informe Codigo:8FFR22-01164-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+https://analystrefuse[.]top/WD5O9nYJ/jumbo-Christmas/?_t=1671135090835#1671135091839
+
+
+Dominios
+----------------------------------------------------------------
+analystrefuse.top	[172.67.188.84]
