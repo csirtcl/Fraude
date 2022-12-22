@@ -1,0 +1,24 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH22-00688-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+apache@vmi1054181.contaboserver.net
+----------------------------------------------------------------
+[173.249.58.117]
+
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+https://ucmstudio.info/activacion/cuenta-aotq/
+
+
+
+Dominios
+----------------------------------------------------------------
+newbailando.com	[172.67.135.231]
