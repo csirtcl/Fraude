@@ -1,0 +1,15 @@
+CSIRT-CL
+
+IoC's de Falsificación de Registros o Identidad
+Informe Codigo:8FFR22-01169-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+https://www.web.bancoripley.cl.prestigeconstructionwny[.]com/1671474048/login
+
+
+Dominios
+----------------------------------------------------------------
+prestigeconstructionwny.com	[192.185.21.172]
