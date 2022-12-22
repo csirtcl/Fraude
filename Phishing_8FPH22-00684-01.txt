@@ -1,0 +1,25 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH22-00684-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+www-data@zanet.pl
+----------------------------------------------------------------
+[89.25.162.51]
+
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+https://bit[.]ly/3G5nHSG?l=www.bancoripley.cl
+https://worldwidefakenote[.]com/bancoripley/cuenta-jhcp/
+
+
+
+Dominios
+----------------------------------------------------------------
+wonthaggicaravans.com.au	[203.26.41.136]
