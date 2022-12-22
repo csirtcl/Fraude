@@ -10,9 +10,7 @@ Remitentes de Correo y Host SMTP
 
 apache@vmi1059586.contaboserver.net
 ----------------------------------------------------------------
-
 [185.177.116.72]
-
 
 
 URLs y Direcciones IP
