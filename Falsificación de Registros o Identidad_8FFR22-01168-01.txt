@@ -1,0 +1,16 @@
+CSIRT-CL
+
+IoC's de Falsificación de Registros o Identidad
+Informe Codigo:8FFR22-01168-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+https://tinyurl4[.]ru/BRuwjlMy/
+https://tinyurl4[.]ru/BRuwjlMy/#1671463113414
+
+
+Dominios
+----------------------------------------------------------------
+tinyurl4.ru	[104.21.84.153]
