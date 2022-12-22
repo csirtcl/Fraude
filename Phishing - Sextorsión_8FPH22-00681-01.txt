@@ -1,0 +1,13 @@
+CSIRT-CL
+
+IoC's de Phishing - Sextorsión
+Informe Codigo:8FPH22-00681-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+N/A
+----------------------------------------------------------------
+[93.184.43.108]
