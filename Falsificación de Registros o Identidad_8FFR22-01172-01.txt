@@ -1,0 +1,15 @@
+CSIRT-CL
+
+IoC's de Falsificación de Registros o Identidad
+Informe Codigo:8FFR22-01172-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+https://tinyurl4[.]ru/chrcorlat/#1671635678096
+
+
+Dominios
+----------------------------------------------------------------
+tinyurl4.ru	[172.64.199.36]
