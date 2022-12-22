@@ -1,0 +1,26 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH22-00683-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+apache@21129.bodis.com
+----------------------------------------------------------------
+
+[168.232.165.161]
+
+
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+https://avengerpati[.]com/activacion/cuenta-veqo/
+
+
+
+Dominios
+----------------------------------------------------------------
+nmhpatito.info	[162.241.60.25]
