@@ -1,0 +1,15 @@
+CSIRT-CL
+
+IoC's de Falsificación de Registros o Identidad
+Informe Codigo:8FFR22-01177-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+https://shukuyaratay[.]top/1671819832/portada/personas/home.asp
+
+
+Dominios
+----------------------------------------------------------------
+shukuyaratay.top	[172.67.195.69]
