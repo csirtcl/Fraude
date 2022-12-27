@@ -1,0 +1,15 @@
+CSIRT-CL
+
+IoC's de Smishing
+Informe Codigo:8FPH22-00689-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+
+
+
+Dominios
+----------------------------------------------------------------
+filmnanciero.com	[172.67.130.81]
