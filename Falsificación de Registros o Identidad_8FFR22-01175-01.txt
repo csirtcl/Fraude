@@ -1,0 +1,15 @@
+CSIRT-CL
+
+IoC's de Falsificación de Registros o Identidad
+Informe Codigo:8FFR22-01175-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+https://cark[.]cl/wp-includes/zim/today/zimbra/
+
+
+Dominios
+----------------------------------------------------------------
+cark.cl	[190.13.188.108]
