@@ -1,0 +1,24 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH22-00691-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+www-data@zanet.pl
+----------------------------------------------------------------
+[89.25.162.51]
+
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+https://bit[.]ly/3WMxent?l=www.bancoripley.cl
+
+
+
+Dominios
+----------------------------------------------------------------
+buckrealty.net	[64.91.247.208]
