@@ -1,0 +1,26 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH22-00692-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+louiswong@skyfortune.com
+----------------------------------------------------------------
+[173.249.151.122]
+
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+https://bit[.]ly/3GkEfqc?l=www.bancoripley.cl
+https://worldwidefakenote[.]com/bancoripley/cuenta-hdzl/
+https://santanderchile-personas.pn-koba.go[.]id/1672144923/portada/personas/home.asp
+Porsnom[.]xyz/pl/poczta/8923057/982357/
+
+
+Dominios
+----------------------------------------------------------------
+pn-koba.go.id	[151.106.118.172]
