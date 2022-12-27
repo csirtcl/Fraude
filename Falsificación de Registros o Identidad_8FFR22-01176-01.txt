@@ -1,0 +1,15 @@
+CSIRT-CL
+
+IoC's de Falsificación de Registros o Identidad
+Informe Codigo:8FFR22-01176-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+https://fl-tienda.myshopify[.]com/
+
+
+Dominios
+----------------------------------------------------------------
+myshopify.com	[23.227.38.74]
