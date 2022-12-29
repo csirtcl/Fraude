@@ -1,0 +1,15 @@
+CSIRT-CL
+
+IoC's de Falsificación de Registros o Identidad
+Informe Codigo:8FFR22-01182-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+https://santanderchile-personas.dmklaws.co.ke/1672163976/portada/personas/home.asp
+
+
+Dominios
+----------------------------------------------------------------
+dmklaws.co.ke	[109.106.250.12]
