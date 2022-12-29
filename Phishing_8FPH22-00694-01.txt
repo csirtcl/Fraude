@@ -1,0 +1,24 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH22-00694-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+apache@ch4kalito.net.net
+----------------------------------------------------------------
+[168.232.165.154]
+
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+https://ibkpatatan[.]com/activacion/cuenta-kbqe/
+
+
+
+Dominios
+----------------------------------------------------------------
+nmhpatito.info	[162.241.60.24]
