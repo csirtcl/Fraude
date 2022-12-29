@@ -7,9 +7,9 @@ Nivel Riesgo: Alto
 
 URLs y Direcciones IP
 ----------------------------------------------------------------
-https://autoatencion-estado{.}click/AOvVaw1FcNbz0LaDfbS/esrc?source=t&nodeId=jd4eblmg53
+https://mnhsmstado[.]site/1669223117/imagenes/_personas/home/default.asp
 
 
 Dominios
 ----------------------------------------------------------------
-mnhsmstado.site	[104.21.86.191]
+mnhsmstado.site	[47.87.139.183]
