@@ -1,0 +1,15 @@
+CSIRT-CL
+
+IoC's de Falsificación de Registros o Identidad
+Informe Codigo:8FFR22-01180-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+https://www.logln.portal-bancochile.cl.scruma[.]xyz/1672154732/bchile-web/persona/login/index.html/login
+
+
+Dominios
+----------------------------------------------------------------
+scruma.xyz	[68.66.224.44]
