@@ -1,0 +1,24 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH22-00698-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+anonymous@s500.xrea.com
+----------------------------------------------------------------
+[203.189.104.67]
+
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+https://bit[.]ly/3Z8OkOn?l=www.bancoripley.cl
+
+
+
+Dominios
+----------------------------------------------------------------
+bluewayeducation.in	[43.225.55.146]
