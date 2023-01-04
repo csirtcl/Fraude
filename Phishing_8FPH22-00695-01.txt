@@ -1,0 +1,24 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH22-00695-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+apache@fl1per.net.net
+----------------------------------------------------------------
+[168.232.165.161]
+
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+https://balarockpop[.]com/activacion/cuenta-vfhh/
+
+
+
+Dominios
+----------------------------------------------------------------
+nmhpatito.info	[162.241.60.24]
