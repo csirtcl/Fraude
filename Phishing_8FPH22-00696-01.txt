@@ -1,0 +1,25 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH22-00696-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+anonymous@s500.xrea.com
+----------------------------------------------------------------
+[203.189.104.67]
+
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+https://bit[.]ly/3FWRqvY?l=www.bancoripley.cl
+https://mpza[.]sk/bancoripley/cuenta-qksa/
+
+
+
+Dominios
+----------------------------------------------------------------
+buckrealty.net	[64.91.247.208]
