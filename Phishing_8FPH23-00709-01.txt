@@ -1,0 +1,24 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00709-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+apache@kumbia.net
+----------------------------------------------------------------
+[45.7.231.69]
+
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+https://xtraillconver[.]com/activacion/cuenta-vtqz/
+https://springpatito[.]info/1673440791/imagenes/_personas/home/default.asp
+
+
+Dominios
+----------------------------------------------------------------
+springpatito.info	[104.21.10.152]
