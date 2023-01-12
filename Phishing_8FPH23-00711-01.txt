@@ -1,0 +1,25 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00711-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+www-data@zanet.pl
+----------------------------------------------------------------
+[89.25.162.51]
+
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+https://bit[.]ly/3k85YBR?l=www.bancoripley.cl
+https://sam-tech[.]jp/bancoripley/cuenta-qiec/
+https://web-bancoripley-cl.awadgallery.co[.]uk/1673526041/login
+
+
+Dominios
+----------------------------------------------------------------
+awadgallery.co.uk	[23.88.71.133]
