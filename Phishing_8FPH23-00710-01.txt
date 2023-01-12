@@ -1,0 +1,24 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00710-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+apache@gabyg0l.net.net
+----------------------------------------------------------------
+[170.239.84.190]
+
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+https://xtraillconver[.]com/activacion/cuenta-hedd/
+https://springpatito[.]info/1673443003/imagenes/_personas/home/default.asp
+
+
+Dominios
+----------------------------------------------------------------
+springpatito.info	[172.67.163.158]
