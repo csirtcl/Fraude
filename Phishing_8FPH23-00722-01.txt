@@ -1,0 +1,24 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00722-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+noreply@banestado.cl
+----------------------------------------------------------------
+[2.144.244.101]
+
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+https://bit[.]ly/3BohsH2
+https://ingreso-banestado.web[.]app/WqTvcFQDmpdBcgzG/url?source=usg&pf_rd_r=fd6ni1ckga
+
+
+Dominios
+----------------------------------------------------------------
+web.app	[199.36.158.100]
