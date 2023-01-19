@@ -1,0 +1,24 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00720-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+mensajeria@mensajeriaripley.cl
+----------------------------------------------------------------
+[193.106.174.4]
+
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+https://bit[.]ly/3iHv9uH?l=www.bancoripley.cl
+https://web.bancoripley.cl.bm-rentacar[.]com/1674069476/login
+
+
+Dominios
+----------------------------------------------------------------
+bm-rentacar.com	[185.45.66.125]
