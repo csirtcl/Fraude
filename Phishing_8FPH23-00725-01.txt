@@ -1,0 +1,25 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00725-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+www-data@thegrandhouse.com
+----------------------------------------------------------------
+[209.97.137.167]
+
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+https://t[.]co/wkUrLb38TS
+https://sodisisperu[.]com/cl/?index=index
+https://bancoripleymovil.cl.autoez123[.]com/1674564764/login/index.html
+
+
+Dominios
+----------------------------------------------------------------
+autoez123.com	[199.188.200.254]
