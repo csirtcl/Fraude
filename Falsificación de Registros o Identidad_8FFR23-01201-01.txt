@@ -1,0 +1,15 @@
+CSIRT-CL
+
+IoC's de Falsificación de Registros o Identidad
+Informe Codigo:8FFR23-01201-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+https://sites.google[.]com/view/weplaycll/halaman-muka?pli=1%22.
+
+
+Dominios
+----------------------------------------------------------------
+google.com	[209.85.145.101]
