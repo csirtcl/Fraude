@@ -1,0 +1,15 @@
+CSIRT-CL
+
+IoC's de Falsificación de Registros o Identidad
+Informe Codigo:8FFR23-01204-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+https://bamco-samtander.cl-sns[.]top/1674652583/portada/personas/home.asp
+
+
+Dominios
+----------------------------------------------------------------
+cl-sns.top	[104.21.94.40]
