@@ -1,0 +1,24 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00730-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+cheminees-camusfils._p6gwltdl12h@cheminees-camusfils.com
+----------------------------------------------------------------
+[178.170.39.15]
+
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+https://bit[.]ly/3Jl5gLU?l=www.bancoripley.cl
+https://web-bancoripley-cl.gkmayprop[.]com/1674735680/login
+
+
+Dominios
+----------------------------------------------------------------
+gkmayprop.com	[130.51.180.17]
