@@ -1,0 +1,17 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00731-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+https://ppcproyectos[.]com/incoming.php?id=TYDWITCABYEVVZMTFEWZXDURJWGKMDLNAJCWVWEKJJKAESKALSVXDZSBHXRESJWLREDOOFWCWUYHPKWGBM
+Asunto
+Factura No Pagada. Regularizar
+
+
+Dominios
+----------------------------------------------------------------
+ppcproyectos.com	[198.59.144.138]
