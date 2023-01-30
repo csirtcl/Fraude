@@ -1,0 +1,17 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00735-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+https://tequilamisorpresa[.]com/ytweshdg.php?id=wkwxfybauwrkeqzgapwyjkugypdfwqupdiuqkfmkewdounxwysesjljrxcbgledjfbctzpjhekj
+Asunto
+Factura No Pagada. Segundo Aviso.
+
+
+Dominios
+----------------------------------------------------------------
+tequilamisorpresa.com	[65.99.252.243]
