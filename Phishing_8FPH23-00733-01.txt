@@ -1,0 +1,24 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00733-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+apache@fl1per.net.net
+----------------------------------------------------------------
+[168.232.165.161]
+
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+https://cartoonpuzzl3s[.]com/activacion/cuenta-bpwz/
+https://xtraillconver[.]com/1674842723/imagenes/_personas/home/default.asp
+
+
+Dominios
+----------------------------------------------------------------
+xtraillconver.com	[138.128.189.154]
