@@ -1,0 +1,78 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00732-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+Correo de Salida
+info@252.75.180.107.host.secureserver.net
+reyna@carstore.com.mx
+miguel.prado@lacasadetono.com.mx
+atencion@lacasadetono.com.mx
+iara.silva@arsolimoes.com.br
+magnocentro@lacasadetono.com.mx
+margarita.lopez@lacasadetono.com.mx
+nouth@outsourcingskill-team.com
+postmaster@m0822.contaboserver.net
+root@ecommerceagency.org
+test@takaraume.com
+postmaster@vmi827866.contaboserver.net
+postmaster@e2e-65-54.ssdcloudindia.net
+postmaster@bzq-82-80-211-101.red.bezeqint.net
+postmaster@e2e-42-97.ssdcloudindia.net
+postmaster@team.host999.net
+info@surugadai.co.jp
+postmaster@eco-global.in
+tulpsolutions@smtp.tulpsolutions.com
+nouth@news.mesoffressw10.fr
+nouth@news.mesoffressw09.fr
+admin@mail.panikcity-download.de
+admin@yodotoku.co.jp
+nouth@news.mesoffressw01.fr
+postmaster@test.jainbandhutrust.com
+mjrivera@pcl.mx
+man@nkcreate.co.jp
+nouth@crazyusa.info
+postmaster@maildc1526907199.mihandns.com
+nouth@news.mesoffressw02.fr
+kitagodo@kitagodo.co.jp
+postmaster@server-176.53.74.110.as42926.net
+postmaster@vmi1002928.contaboserver.net
+nouth@news.mesoffressw03.fr
+postmaster@jigtor1.jig.to
+mesogold@mesogold.com
+postmaster@servinet-svr1.webservinet.com
+postmaster@ashley-howard.co.uk
+postmaster@ovz281.my-virtual-panel.com
+info@252.75.180.107.host.secureserver.net
+nouth@mail.atleasing.com.tr
+raul@forestalpinojal.com
+root@mail.firenet.jp
+ovaldez@correo.hemsa.com
+postmaster@mail2.ericsontpa.com
+nouth@news.mesoffressw07.fr
+baso@mx2.baso.com.tw
+dos@dosmx.com
+contabilidad@tecnua.com
+web@hirodenkoso.or.jp
+pousadareliquiasdeminas@mgconecta.com.br
+mgarza@apodaca.gob.mx
+l-lopez@cometra.com.mx
+fiscal@ditolvo.com.br
+anamariaperez@ibtech.com.mx
+rlopez@eycia.com
+cedi@agroveterinaria.com.mx
+admin.instalaciones@grupoenergeticos.com
+alex@optimaldesign.com.br
+
+paula@colinset.com.br
+
+
+
+
+Dominios
+----------------------------------------------------------------
+ppcproyectos.com	[198.59.144.138]
