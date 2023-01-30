@@ -1,0 +1,17 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00734-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+https://smartgift[.]live/ips_cl/?cep=ADpcvY4BIMnvUrAW9fx58sqTbjRe25a7RiuOiwXC_-2Y2fTYOJmDp42E-8Htv8msrXSiDuN0bmLZZ5ZWDcUpZCeDOka_1cVJ7OpbjLvjP0UtEFc7bd71_Dhsbw-xY61uHCyLqTHq-zeqR6mUD0VfgX4b38enLC1YHiwW008epixUtQfSnEx6FvbYOTVC_miypOqhiaCoUbhLDqVUUsEQIao8IK_cS3Qy98gWLwtgINzFs2irz1qHz-oXXeTHfgSxhosxbT37OxtT-ViuXGUoYRIQe_6B2UbGjYCCsXni3mijBdhc2NdzNyt8qok7Isfw670FxHsfBDa-9i9XG4uDofRPVP_v-MuXCpEoEraN9SLZ1_eQJs6u5hQZfcehSKHb&lptoken=165974c584b3519f647c
+Asunto
+-
+
+
+Dominios
+----------------------------------------------------------------
+smartgift.live	[84.32.190.20]
