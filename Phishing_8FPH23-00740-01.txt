@@ -1,0 +1,24 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00740-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+apache@vmi1167056.contaboserver.net
+----------------------------------------------------------------
+[109.123.244.123]
+
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+https://ucmstudio[.]info/activacion/cuenta-vbvq/
+https://smsrstado[.]site/1675687283/imagenes/_personas/home/default.asp
+
+
+Dominios
+----------------------------------------------------------------
+smsrstado.site	[202.89.39.41]
