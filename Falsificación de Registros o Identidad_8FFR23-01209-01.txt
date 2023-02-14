@@ -1,0 +1,15 @@
+CSIRT-CL
+
+IoC's de Falsificación de Registros o Identidad
+Informe Codigo:8FFR23-01209-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+https://www.columbiaonline-cl[.]shop/
+
+
+Dominios
+----------------------------------------------------------------
+columbiaonline-cl.shop	[172.67.199.42]
