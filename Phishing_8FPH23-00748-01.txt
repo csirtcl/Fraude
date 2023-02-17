@@ -1,0 +1,24 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00748-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+apache@fl1per.net.net
+----------------------------------------------------------------
+[168.232.165.161]
+
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+https://cartoonpuzzl3s[.]com/activacion/cuenta-buqj/
+https://nwmpatitocliente[.]lol/1676474686/imagenes/_personas/home/default.asp
+
+
+Dominios
+----------------------------------------------------------------
+nwmpatitocliente.lol	[104.21.94.102]
