@@ -1,0 +1,26 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00749-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+mensajeria@mensajeriaripley.cl
+----------------------------------------------------------------
+[162.240.0.56]
+
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+https://t[.]co/0EUMFOBG06
+https://appscl[.]website/
+https://forum.boombang[.]tv/profile/bancoripley.cl
+http://bancoripleymovil.cl.hotelalpinodearmenia[.]com/1676486521/login/index.html
+
+
+Dominios
+----------------------------------------------------------------
+hotelalpinodearmenia.com	[198.54.126.39]
