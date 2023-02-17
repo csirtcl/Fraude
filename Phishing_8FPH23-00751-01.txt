@@ -1,0 +1,24 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00751-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+helpdesk.noreply@invaldomain.com
+----------------------------------------------------------------
+[185.219.80.228]
+
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+https://arweave[.]net/WQw1oDTYei8YxKhYZergqzReF-Vw3HRocVwG0XCCOZg#soc-test@csirt.gob.cl
+https://legdlibu3b5c6ggevbmgl2xavm2f4f7fodohi2drlqdnc4echgma.arweave[.]net/WQw1oDTYei8YxKhYZergqzReF-Vw3HRocVwG0XCCOZg#test@csirt.gob.cl
+
+
+Dominios
+----------------------------------------------------------------
+arweave.net	[99.84.160.69]
