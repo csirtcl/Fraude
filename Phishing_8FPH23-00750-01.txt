@@ -1,0 +1,24 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00750-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+jseverino@vps.server.local
+----------------------------------------------------------------
+[31.220.57.178]
+
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+https://bit[.]ly/3xvQB9q?l=www.bancoripley.cl
+https://web.bancoripley.cl.imexcomed.com[.]bo/1676558297/login
+
+
+Dominios
+----------------------------------------------------------------
+imexcomed.com.bo	[69.73.184.9]
