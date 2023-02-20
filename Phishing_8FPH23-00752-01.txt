@@ -1,0 +1,24 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00752-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+am_ciudadmunicipal_spam@mdcc.gob.pe
+----------------------------------------------------------------
+[200.39.148.238]
+
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+https://diane-wight.mykajabi[.]com/08jd
+https://diane-wight.mykajabi[.]com/08jd
+
+
+Dominios
+----------------------------------------------------------------
+mykajabi.com	[104.18.19.84]
