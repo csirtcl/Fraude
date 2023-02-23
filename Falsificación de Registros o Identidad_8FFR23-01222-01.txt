@@ -1,0 +1,17 @@
+CSIRT-CL
+
+IoC's de Falsificación de Registros o Identidad
+Informe Codigo:8FFR23-01222-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+https://coordenadas[.]buzz/santa.php
+https://coordenadasbloqueada[.]buzz/
+https://bancosantander-cl.chile-personas[.]buzz/1677006305/portada/personas/home.asp
+
+
+Dominios
+----------------------------------------------------------------
+chile-personas.buzz	[104.21.6.151]
