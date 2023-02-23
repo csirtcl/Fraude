@@ -1,0 +1,17 @@
+CSIRT-CL
+
+IoC's de Falsificación de Registros o Identidad
+Informe Codigo:8FFR23-01225-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+https://bit[.]ly/3iHv9uH?l=www.bancoripley.cl
+https://sam-tech[.]jp/bancoripley/cuenta-dusc/
+https://web.bancoripley.cl.ngyokonutmarket[.]com/1677094832/login
+
+
+Dominios
+----------------------------------------------------------------
+ngyokonutmarket.com	[213.238.167.92]
