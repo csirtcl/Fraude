@@ -1,0 +1,17 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00758-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+https://fastchile.cl
+https://r.sco-ingreso[.]live/r/Hjsh43s
+https://personas.sco-ingreso[.]live/personas/Verificacion/b07c321213d96b0dd31bcbe59d75788c
+
+
+Dominios
+----------------------------------------------------------------
+sco-ingreso.live	[94.131.8.181]
