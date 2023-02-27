@@ -1,0 +1,25 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00759-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+nieuws@cdn1.112nieuwsgroep.nl
+----------------------------------------------------------------
+[37.97.241.177]
+
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+https://bit[.]ly/3Sup1mV?l=www.bancoripley.cl
+https://sam-tech[.]jp/bancoripley/cuenta-bshw/
+https://web.banco-ripleycl.awadgallery.co[.]uk/1677500526/login
+
+
+Dominios
+----------------------------------------------------------------
+awadgallery.co.uk	[148.113.159.144]
