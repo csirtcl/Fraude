@@ -1,0 +1,15 @@
+CSIRT-CL
+
+IoC's de Falsificación de Registros o Identidad
+Informe Codigo:8FFR23-01232-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+https://zarinazira[.]com/?subid2=649023540604&subid3=www.csirt.gob.cl&gclid=EAIaIQobChMIx57109q4_QIVUtz9BR14vwL_EAEYASAAEgK7iPD_BwE
+
+
+Dominios
+----------------------------------------------------------------
+zarinazira.com	[104.21.4.23]
