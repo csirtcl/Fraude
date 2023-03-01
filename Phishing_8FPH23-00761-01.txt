@@ -1,0 +1,25 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00761-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+kadikoy@yabancidilseslendirme.com
+----------------------------------------------------------------
+[185.165.46.147]
+
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+https://bit[.]ly/3IYb3X7?l=www.bancoripley.cl
+https://sam-tech[.]jp/bancoripley/cuenta-fvrq/
+https://web.banco-ripleycl.awadgallery.co[.]uk/1677608708/login
+
+
+Dominios
+----------------------------------------------------------------
+awadgallery.co.uk	[148.113.159.144]
