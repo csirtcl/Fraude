@@ -1,0 +1,24 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00765-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+rmolina@dinaf.gob.hn
+----------------------------------------------------------------
+[181.210.30.114]
+
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+https://webcocentricen.wapka[.]co/
+https://webcocentricen.wapka[.]co/
+
+
+Dominios
+----------------------------------------------------------------
+wapka.co	[173.212.225.42]
