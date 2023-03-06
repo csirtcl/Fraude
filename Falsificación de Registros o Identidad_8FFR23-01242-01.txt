@@ -1,0 +1,15 @@
+CSIRT-CL
+
+IoC's de Falsificación de Registros o Identidad
+Informe Codigo:8FFR23-01242-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+https://www.merrellchileofertas[.]com/
+
+
+Dominios
+----------------------------------------------------------------
+merrelchileonline.com	[196.196.205.239]
