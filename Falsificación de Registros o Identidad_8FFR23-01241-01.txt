@@ -1,0 +1,15 @@
+CSIRT-CL
+
+IoC's de Falsificación de Registros o Identidad
+Informe Codigo:8FFR23-01241-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+https://www.shopcaterpillar[.]cl/
+
+
+Dominios
+----------------------------------------------------------------
+shopcaterpillar.cl	[13.226.22.66]
