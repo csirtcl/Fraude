@@ -1,0 +1,24 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00766-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+N/A
+----------------------------------------------------------------
+N/A
+
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+http://w.entrepreneurialdevastating.cn/8a44AXl4AFgBWn9ISnZDakdlLS10ZFwIAxJxd00yJTccLFMHaA0pXAMjNkM3XgdJAyp-Byl1IRBWOh1rAXMAFG80SD4?ttye1678113459138
+https://tmbkkq[.]cyou/ccGhZ80J/fonasawy/?_t=1678122603320#1678122605732
+
+
+Dominios
+----------------------------------------------------------------
+tmbkkq.cyou	[172.64.171.15]
