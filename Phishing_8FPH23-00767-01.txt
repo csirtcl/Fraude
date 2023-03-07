@@ -1,0 +1,24 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00767-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+apache@vmi1175090.contaboserver.net
+----------------------------------------------------------------
+[84.46.250.80]
+
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+https://apply.mituniversity.edu[.]in/activacion/banca-en-linea/
+https://underfilehomestado[.]top/1678193232/imagenes/_personas/home/default.asp
+
+
+Dominios
+----------------------------------------------------------------
+underfilehomestado.top	[202.89.39.2]
