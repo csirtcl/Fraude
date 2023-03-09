@@ -1,0 +1,16 @@
+CSIRT-CL
+
+IoC's de Falsificación de Registros o Identidad
+Informe Codigo:8FFR23-01247-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+https://is.gd/BancoChile
+https://portal.persona.bancochile.cl.leadscop[.]com/1678304999/bchile-web/persona/login/index.html/login
+
+
+Dominios
+----------------------------------------------------------------
+leadscop.com	[68.66.216.59]
