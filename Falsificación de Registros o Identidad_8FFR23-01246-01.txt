@@ -1,0 +1,16 @@
+CSIRT-CL
+
+IoC's de Falsificación de Registros o Identidad
+Informe Codigo:8FFR23-01246-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+http://w.attractpant[.]cyou/0830al9_RUBERlRkW31kAxsHbFh9D0lYFQ1BNVIFMA0bXDQmaz4eFl0eEVs6HFMDSAkjekUgaAg6VAkgFAtEXR5eIQka?pngw1678303073349
+https://i7ko6bz[.]cn/n07edqly/liderclwy/?_t=1678304603129#1678304604274
+
+
+Dominios
+----------------------------------------------------------------
+i7ko6bz.cn	[104.21.1.9]
