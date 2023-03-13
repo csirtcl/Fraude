@@ -1,0 +1,15 @@
+CSIRT-CL
+
+IoC's de Falsificación de Registros o Identidad
+Informe Codigo:8FFR23-01251-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+https://www.guesschileoutlet[.]com
+
+
+Dominios
+----------------------------------------------------------------
+guesschileoutlet.com	[196.196.231.198]
