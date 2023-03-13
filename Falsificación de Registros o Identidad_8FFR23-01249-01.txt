@@ -1,0 +1,17 @@
+CSIRT-CL
+
+IoC's de Falsificación de Registros o Identidad
+Informe Codigo:8FFR23-01249-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+https://qsmart[.]cl/chilexpress
+https://r.p-chilexpress[.]live/r/HjHsN5H
+https://envios.p-chilexpress[.]live/Contingencia/b07c321213d96b0dd31bcbe59d75788c
+
+
+Dominios
+----------------------------------------------------------------
+p-chilexpress.live	[80.78.22.44]
