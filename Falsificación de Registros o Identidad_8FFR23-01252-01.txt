@@ -1,0 +1,15 @@
+CSIRT-CL
+
+IoC's de Falsificación de Registros o Identidad
+Informe Codigo:8FFR23-01252-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+https://www.cl-guess[.]shop/
+
+
+Dominios
+----------------------------------------------------------------
+cl-guess.shop	[172.67.205.186]
