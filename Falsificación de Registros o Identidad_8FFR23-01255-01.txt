@@ -1,0 +1,15 @@
+CSIRT-CL
+
+IoC's de Falsificación de Registros o Identidad
+Informe Codigo:8FFR23-01255-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+https://www.pumachileoutlet[.]com/
+
+
+Dominios
+----------------------------------------------------------------
+pumachileoutlet.com	[165.231.154.176]
