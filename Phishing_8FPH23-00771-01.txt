@@ -1,0 +1,25 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00771-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+mensajeria@bancoestado.cl
+----------------------------------------------------------------
+[178.172.139.18]
+
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+https://bit[.]ly/3BohsH2
+http://139.59.82[.]7/cdabdc4669e50f6d9288b990cf8fccea/64229fbd812b67cfd4fcf98f57b6c1ea/1c3861b1d9e4fd3c0b2849b30964cb99YY?p=rip
+https://cuenta-banestado.web[.]app/7SBCJUUEF6SYBGT/cad?source=rja&node=gqcbqqc2ejgaa
+
+
+Dominios
+----------------------------------------------------------------
+web.app	[199.36.158.100]
