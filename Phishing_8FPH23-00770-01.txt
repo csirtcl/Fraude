@@ -1,0 +1,24 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00770-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+apache@fl1per.net.net
+----------------------------------------------------------------
+[168.232.165.161]
+
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+https://containd3structible[.]com/activacion/cuenta-ffca/
+https://nwmepsonpatito[.]club/1678739215/imagenes/_personas/home/default.asp
+
+
+Dominios
+----------------------------------------------------------------
+nwmepsonpatito.club	[172.67.131.190]
