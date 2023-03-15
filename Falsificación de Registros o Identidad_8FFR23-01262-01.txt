@@ -1,0 +1,27 @@
+CSIRT-CL
+
+IoC's de Falsificación de Registros o Identidad
+Informe Codigo:8FFR23-01262-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+https://dev-ingresar-portal-de-seguridad-itau.pantheonsite.io/
+https://dev-00989.pantheonsite.io/
+http://dev-glmane2s.pantheonsite.io
+https://dev-seguridadenlinea-homeitaupy.pantheonsite.io/
+https://dev-itaupyrj.pantheonsite.io/
+https://dev-seguridadenlinea-homeitau.pantheonsite.io/
+https://dev-iayuloginsecurpy.pantheonsite.io/
+https://dev-itaupycli.pantheonsite.io/
+https://dev-ltaupyequipo.pantheonsite.io/
+https://dev-verifiaccountnewww.pantheonsite.io/
+https://dev-glmane2s.pantheonsite.io/
+https://dev-alertpyitau.pantheonsite.io/
+https://dev-autenticar-datoscuenta-itaupy.pantheonsite.io/
+
+
+Dominios
+----------------------------------------------------------------
+pantheonsite.io	[23.185.0.2-3-4]
