@@ -1,0 +1,24 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00772-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+apache@vmi1170856.contaboserver.net
+----------------------------------------------------------------
+[84.46.250.100]
+
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+https://fogapehomeunder[.]info/Solicitud_Aprobada/cuenta-rsqg/
+https://underzonaportal[.]info/1678886730/imagenes/_personas/home/default.asp
+
+
+Dominios
+----------------------------------------------------------------
+underzonaportal.info	[213.136.93.171]
