@@ -1,0 +1,24 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00774-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+CW@jimbarbrealtyinc.com
+----------------------------------------------------------------
+[40.107.92.40]
+
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+http://it.fashionnetwork[.]com/nl/?nl=241666&uc=4073310&link=https%3A%2F%2Fkhapang.com%2Fnew%2Fauth%2F/2gznpt%2F%2F%2F%2Ftest@csirt.gob.cl
+https://s3.amazonaws[.]com/appforest_uf/f1678963235136x268843359013990460/sorted.html?email=test@csirt.gob.cl
+
+
+Dominios
+----------------------------------------------------------------
+amazonaws.com	[52.217.92.246]
