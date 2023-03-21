@@ -1,0 +1,17 @@
+CSIRT-CL
+
+IoC's de Falsificación de Registros o Identidad
+Informe Codigo:8FFR23-01266-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+https://cloudflare-ipfs[.]com/ipfs/Qmb4MYAt67BDH8LrDy8NNeaUk6MsxM6eqKAnq5KQrpM77V
+https://pufferfish-plums-7rn7.squarespace[.]com/
+https://mandolin-bamboo-pj26.squarespace[.]com/
+https://bobcat-hexagon-m62r.squarespace[.]com/
+https://snobods.z13.web.core.windows[.]net/
+198.49.23[.]177
+104.17.64[.]14
+52.239.170[.]65
