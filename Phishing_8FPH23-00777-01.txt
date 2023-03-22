@@ -1,0 +1,24 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00777-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+apache@betanosimple.net.net
+----------------------------------------------------------------
+[45.7.231.186]
+
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+https://mapacontact[.]com/activacion/cuenta-vnrp/
+https://patitotravel[.]com/1679509523/imagenes/_personas/home/default.asp
+
+
+Dominios
+----------------------------------------------------------------
+patitotravel.com	[138.128.182.130]
