@@ -8,9 +8,4 @@ Nivel Riesgo: Alto
 URLs y Direcciones IP
 ----------------------------------------------------------------
 [167.160.0.229]
-[169.169.0.229]
-[167.160.2.229]
 https://www.moveoutlets[.]shop/
-https://www.utlets[.]shop/
-https://www.moveoutlets[.]shopaa/
-https://www.m[.]shop/
