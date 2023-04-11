@@ -1,0 +1,20 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00783-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+apache@ch4kalito.net.net
+----------------------------------------------------------------
+[168.232.165.154]
+
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+[67.23.242.202]
+https://clubmenthalist[.]com/promocion/cuenta-ooqn/
+https://nwmmayorsa[.]com/1681160466/imagenes/_personas/home/default.asp
