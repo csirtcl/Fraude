@@ -1,0 +1,19 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00781-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+jkisilu@npsc.go.ke
+----------------------------------------------------------------
+[41.76.169.9]
+
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+[74.125.132.95]
+https://firebasestorage.googleapis.com/v0/b/oiuuyytrrteertyu.appspot.com/o/index.html?alt=media&token=87c0b2ef-b50a-467b-9bd6-021d581f8a3b
