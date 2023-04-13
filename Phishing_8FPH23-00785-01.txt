@@ -1,0 +1,20 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00785-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+20230413145959.EC789909740@s2.hostingromania.ro
+----------------------------------------------------------------
+[194.242.15.102]
+
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+[185.184.154.1]
+https://bit[.]ly/3KWZi4k?l=www.bancoripley.cl
+https://web.bancoripley.cl.berleymate.co[.]nz/1681404303/login
