@@ -1,0 +1,12 @@
+CSIRT-CL
+
+IoC's de Falsificación de Registros o Identidad
+Informe Codigo:8FFR23-01276-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+[162.218.176.59]
+https://salebags.mailchimpsites[.]com/?gclid=CjwKCAjwitShBhA6EiwAq3RqAx_kTV3GfAXmW8rs2xeVhBV0keCWnlZIz59-q5Ks_k80k3a6VgtxRRoCNasQAvD_BwE
+https://www.exaidonline[.]shop/?u=oAhBi2q3bYU=
