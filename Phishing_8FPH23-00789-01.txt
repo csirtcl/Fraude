@@ -1,0 +1,20 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00789-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+rivasmexicangril@b.mas.consulting
+----------------------------------------------------------------
+[92.204.136.83]
+
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+[20.226.87.125]
+https://www.wingedpeople.net/Photo/--/https:/banco.itau.cl/?cliente=test@csirt.gob.cl
+https://itau.sii-impuestoscl[.]com/
