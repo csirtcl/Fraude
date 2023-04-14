@@ -1,0 +1,11 @@
+CSIRT-CL
+
+IoC's de Falsificación de Registros o Identidad
+Informe Codigo:8FFR23-01282-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+[104.21.2.56]
+https://vv-oftor[.]xyz/es/4592-v2/?aff_sub=f7249usa4syzwd3c
