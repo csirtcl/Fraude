@@ -1,0 +1,20 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00786-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+apache@hwsrv-1059076.hostwindsdns.com
+----------------------------------------------------------------
+[23.254.211.215]
+
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+[67.23.242.202]
+https://clubmenthalist[.]com/promocion/cuenta-ooqn/
+https://nwmmayorsa[.]com/1681477326/imagenes/_personas/home/default.asp
