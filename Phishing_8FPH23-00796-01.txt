@@ -1,0 +1,13 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00796-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+[185.112.146.238]
+http://hgxd.me/Zs0IKz
+https://okinform.live/correos_cl/
+https://www.online-giveaway-club.online/?gra=ee65854
