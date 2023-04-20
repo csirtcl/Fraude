@@ -1,0 +1,20 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00793-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+apache@vmi1261807.contaboserver.net
+----------------------------------------------------------------
+[158.220.107.141]
+
+
+URLs y Direcciones IP
+----------------------------------------------------------------
+[104.21.22.94]
+https://www.ideaprisma[.]it/online/activacion/cuenta-kzho/
+https://smshomefogapestados[.]top/1681833044/imagenes/_personas/home/default.asp
