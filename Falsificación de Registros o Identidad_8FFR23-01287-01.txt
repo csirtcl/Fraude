@@ -5,7 +5,7 @@ Informe Codigo:8FFR23-01287-01
 TLP: Blanco
 Nivel Riesgo: Alto
 
-URLs y Direcciones IP
+URLs, Dominios y Direcciones IP
 ----------------------------------------------------------------
 [104.21.53.39]
 https://lps.lemonsharkonline[.]com/codc_es_lat_lso/
