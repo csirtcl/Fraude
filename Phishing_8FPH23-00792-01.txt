@@ -13,8 +13,8 @@ apache@ch4kalito.net.net
 [168.232.165.154]
 
 
-URLs y Direcciones IP
+URLs, Dominios y Direcciones IP
 ----------------------------------------------------------------
 [67.23.242.202]
-https://clubmenthalist[.]com/promocion/cuenta-ooqn/
-https://nwmmayorsa[.]com/1681745339/imagenes/_personas/home/default.asp
+https://clubmenthalist.com/promocion/cuenta-ooqn/
+https://nwmmayorsa.com/1681745339/imagenes/_personas/home/default.asp
