@@ -1,0 +1,11 @@
+CSIRT-CL
+
+IoC's de Falsificación de Registros o Identidad
+Informe Codigo:8FFR23-01300-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+[172.64.80.1]
+https://web-bancoripley-cl.web-bancoripley-cl-login.info/1682428126/login/index.html
