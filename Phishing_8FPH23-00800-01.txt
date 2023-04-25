@@ -1,0 +1,21 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00800-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+webmaster@shi-ming.art
+----------------------------------------------------------------
+[212.48.114.173]
+
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+[104.21.17.239]
+https://bit.ly/40B3Hyg?l=www.bancoripley.cl
+https://sam-tech.jp/bancoripley/cuenta-wplw/
+https://web-bancoripley-cl.web-bancoripley-cl.club/1682429040/login/index.html
