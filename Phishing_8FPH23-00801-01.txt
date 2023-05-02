@@ -1,0 +1,21 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00801-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+bamdejco@srv.bamdej.com
+----------------------------------------------------------------
+[79.132.193.206]
+
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+[172.67.212.81]
+https://bit.ly/3HgiyYp?l=www.officebanking.cl
+http://wordpress.zuliatec.com.ve/activacion/cuenta-ufbq/
+https://officebanking.sitio-cl.buzz/1682515743/default.htm
