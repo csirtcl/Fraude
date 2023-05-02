@@ -1,0 +1,20 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00802-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+bamdejco@srv.bamdej.com
+----------------------------------------------------------------
+[79.132.193.206]
+
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+[172.67.178.221]
+https://sam-tech.jp/ripley/activacion-ooph/
+https://web-bancoripley-cl.web-bancoripley-cl.club/1682711530/login/index.html
