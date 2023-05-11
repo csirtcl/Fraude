@@ -1,0 +1,19 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00807-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+admin@kai.com.np
+----------------------------------------------------------------
+[202.166.194.21]
+
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+[98.142.101.90]
+https://6td343iwxptitli4vfaqjqs5xexvzx3lhzuhb7cbt4px2qdlq-ipfs-w3s-link.translate.goog/autozim.html?_x_tr_hp=bafybeig2e&_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp#test@csirt.gob.cl
