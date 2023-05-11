@@ -1,0 +1,12 @@
+CSIRT-CL
+
+IoC's de Falsificación de Registros o Identidad
+Informe Codigo:8FFR23-01318-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+[199.36.158.100]
+http://64.227.158.251/5ce0e9faa164d9e8beef007131bae5cd/df60b05ac2256d010a1e14dfc6135d92/610cba09c0b30faf71e7e9acf2cf04c8/ehqdb3b7b1609477124a53b9a72ed331294-cak/?p=est
+https://zona-banestado.web.app/XQpBJZJHVWeBFBkVxJuyMkJY6uyPA8/not?source=uact&pf_rd_r=3ffgllq5olam
