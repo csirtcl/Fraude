@@ -1,0 +1,12 @@
+CSIRT-CL
+
+IoC's de Falsificación de Registros o Identidad
+Informe Codigo:8FFR23-01317-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+[172.64.204.16]
+https://presumablyobsessive.cn/7763Ql9gXgJceWkAURZrM1ARNnd3MV1XUlhAMXEmOzo_LDRFegcWNEIPNV07EUMXNxYKA1pAMBcPEzYUXXQgNHUbdxA?dfdk1683739592758
+https://identitydefault.cn/EQkBKsHj/santawhy/?_t=1683745039560#1683745041569
