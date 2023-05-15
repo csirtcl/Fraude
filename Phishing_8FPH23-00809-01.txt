@@ -1,0 +1,21 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00809-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+notificacions@east.fi
+----------------------------------------------------------------
+[54.240.7.11]
+
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+[3.0.200.196]
+https://qrco.de/46199a88e8921dedd2c68b8252f6afcf8fc56902?trackid=OBMSXPTVMK
+https://qrco.de/46199a88e8921dedd2c68b8252f6afcf8fc56902?trackid=ISESLXOVHB
+https://pērsonas.pōrtal.com/?7a139d47b31da2df386454ada29572cce244db88=3d1dd3a2e1ab9329b4ffc31f3d98ab92&p=login&country=CL&lang=es
