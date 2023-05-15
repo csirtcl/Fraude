@@ -1,0 +1,20 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00811-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+apache@noe1.net
+----------------------------------------------------------------
+[168.232.165.133]
+
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+[172.67.202.214]
+https://hopgia.vn/module/activacion/cuenta-kzho/
+https://homepatitostado.bio/1684159549/imagenes/_personas/home/default.asp
