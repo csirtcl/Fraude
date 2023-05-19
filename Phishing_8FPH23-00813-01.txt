@@ -1,0 +1,12 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00813-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+[172.67.140.95]
+https://hopgia.vn/module/activacion/cuenta-kzho/
+https://fogapestadosms.top/1684355700/imagenes/_personas/home/default.asp
