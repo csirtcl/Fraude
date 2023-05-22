@@ -1,0 +1,21 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00815-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+apache@jiuiceoran.net.net
+----------------------------------------------------------------
+[170.239.85.53]
+
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+[98.142.101.90]
+https://lidercolor.com.br/consulta/beneficio/
+https://yahamarecuak.com/?cid=UsuarioRestaurar&cat=cgiRestaurar&gClic=b1a59b315fc9a3002ce38bbe070ec3f5&valueValidar
+https://yahamarecuak.com/1684506657/portada/personas/home.asp
