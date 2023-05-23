@@ -1,0 +1,19 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00818-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+gcamacho@sanidadpolicial.gub.uy
+----------------------------------------------------------------
+[190.64.78.162]
+
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+[157.53.227.1]
+https://www.landpagepreview.com/f599b73a-f936-11ed-b3a9-a6da6f1d126b
