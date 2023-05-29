@@ -1,0 +1,21 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00825-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+apache@vmi1315984.contaboserver.net
+----------------------------------------------------------------
+[185.215.166.110]
+
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+
+[138.128.170.234]
+https://reachercontact.com/activacion/cuenta-zksc/
+https://contachinchero.com/1685367070/imagenes/_personas/home/default.asp
