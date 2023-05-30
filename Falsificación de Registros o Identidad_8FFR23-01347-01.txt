@@ -1,0 +1,46 @@
+CSIRT-CL
+
+IoC's de Falsificación de Registros o Identidad
+Informe Codigo:8FFR23-01347-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+[199.21.150.24]
+[23.252.71.150]
+[107.150.166.243]
+[107.150.173.206]
+[199.21.150.25]
+[23.252.68.235]
+[162.222.89.177]
+[167.160.3.13]
+[23.252.68.234]
+[23.252.68.239]
+[167.160.3.5]
+[167.160.3.20]
+[23.252.66.113]
+[107.150.166.236]
+[107.150.173.210]
+[107.150.166.229]
+[162.222.89.176]
+https://www.deportescalzado.online/
+https://www.myshoespromo.online/
+https://www.clothsalesit.online/
+https://www.rustinlowe.shop/
+https://www.saleousontius.online/
+https://www.uniedoudoune.online/
+https://www.saptofers.online/
+https://www.vetemcam.online/
+https://www.saleshkalmgr.online
+https://www.borseitalias.online/
+https://www.dukepet.shop/
+https://www.jupefemme.online/
+https://www.modahandm.shop/
+https://www.sapatiofers.shop/
+https://www.lipmies.online/
+https://www.babyropaa.shop/
+https://www.melichinelos.shop/
+https://www.neudones.online/
+https://www.skersapatos.shop/
+
