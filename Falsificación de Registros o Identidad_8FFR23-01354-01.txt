@@ -1,0 +1,11 @@
+CSIRT-CL
+
+IoC's de Falsificación de Registros o Identidad
+Informe Codigo:8FFR23-01354-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+[172.67.173.59]
+https://real-invest-offer.com/es?campaign_id=sGMNdnt8&c=w7dtgil276mba54p2mrvj6cq&p1=mpanda_a&p4=sqm&theme=ccu&ksget=1&analytics_session_id=26e45d2b727512c77fe766be9efc982f6e4964b81685569609&token=6477c049696a73f73705ce73
