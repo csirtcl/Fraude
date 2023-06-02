@@ -1,0 +1,20 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00827-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+ortozone@node3325.myfcloud.com
+----------------------------------------------------------------
+[172.104.132.96]
+
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+[108.167.171.58]
+https://bit.ly/3oMxl6V?l=www.bancoripley.cl
+https://web.bancoripley-cl.grfer.com.br/1685557879/login/index.html
