@@ -1,0 +1,34 @@
+CSIRT-CL
+
+IoC's de Falsificación de Registros o Identidad
+Informe Codigo:8FFR23-01378-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+[75.2.103.32]
+https://www.linshop.shop
+https://www.mmeyaya.com/
+https://www.autorza.com/
+https://www.strinu.com/
+https://www.mecator.shop/
+https://www.bold-bright.com/
+https://www.mouumo.com/
+https://www.mosheis.com/
+https://www.flodors.com/
+https://www.momymi.com/
+https://www.dskkcj.com/
+https://www.cyber-zap.com/
+https://www.qvukxp.com/
+https://www.moexie.com/
+https://www.wise-rose.com/
+https://www.vbhsag.com/
+https://www.buravw.com/
+https://www.wise-glaze.com/
+https://www.rocket-tide.com/
+https://www.mocimci.com/
+https://www.emyjuk.com/
+https://www.hottyou.com/
+https://www.bbjsqj.com/
+https://www.uoueou.com/
