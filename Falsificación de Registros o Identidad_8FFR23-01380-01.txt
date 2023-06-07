@@ -1,0 +1,14 @@
+CSIRT-CL
+
+IoC's de Falsificación de Registros o Identidad
+Informe Codigo:8FFR23-01380-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+[75.2.103.32]
+https://www.fincheeap.com/
+https://www.costumese.com/
+https://www.speedy-fawn.com/
+https://www.mordeniy.com/
