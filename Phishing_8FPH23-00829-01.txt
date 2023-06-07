@@ -1,0 +1,20 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00829-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+apache@betanosimple.net.net
+----------------------------------------------------------------
+[45.7.231.186]
+
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+[72.29.91.210]
+https://reachercontact.com/activacion/cuenta-zksc/
+https://c4japatit0.com/1685990843/imagenes/_personas/home/default.asp
