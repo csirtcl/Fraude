@@ -1,0 +1,20 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00831-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+sipetas@s01.enterid.gr
+----------------------------------------------------------------
+[195.201.28.254]
+
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+[50.87.145.149]
+https://bit.ly/3oFJDyb?l=www.tarjetacencosud.cl
+https://mitarjetacencosud-cl.martinezlawaz.com/
