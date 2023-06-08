@@ -1,0 +1,21 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00832-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+sipetas@s01.enterid.gr
+----------------------------------------------------------------
+[195.201.28.254]
+
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+[192.185.74.77]
+https://bit.ly/43roLty?l=www.bancoestado.cl
+http://amazon1234.com/banestado/cuenta-blje/
+https://bancoestado-cl.malkcons.co.tz/1686152706/imagenes/_personas/home/default.asp
