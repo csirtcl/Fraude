@@ -1,0 +1,20 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00834-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+anonymous@s365.xrea.com
+----------------------------------------------------------------
+[160.251.151.180]
+
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+[209.94.90.1]
+https://boundlessdao.com/wp-content/shipdoc/#test@csirt.gob.cl
+https://ipfs.io/ipfs/QmNP7iJx7dFre9V5R4j9p1MhtbHDyLrLMKmJPpoTnSZSPf?filename=sharee.html#test@csirt.gob.cl
