@@ -1,0 +1,13 @@
+CSIRT-CL
+
+IoC's de Falsificación de Registros o Identidad
+Informe Codigo:8FFR23-01408-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+[68.65.120.219]
+https://t.co/wqukED5Eyg
+https://pltf.website/
+https://bcoripley.website/1686855895/login/index.html
