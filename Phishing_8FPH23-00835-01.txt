@@ -1,0 +1,20 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00835-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+apache@sharamaka.net.net
+----------------------------------------------------------------
+[170.239.85.57]
+
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+[98.142.101.90]
+https://reachercontact.com/activacion/cuenta-zksc/
+https://comunistable.com/1686775462/imagenes/_personas/home/default.asp
