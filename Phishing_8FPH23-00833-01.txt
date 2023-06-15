@@ -1,0 +1,21 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00833-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+wordpress@miningsound.com
+----------------------------------------------------------------
+[46.183.9.14]
+
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+[103.226.222.162]
+https://bit.ly/3J45YfF?l=www.santander.cl
+http://amazon1234.com/bancosantander/cuenta-ofis/
+https://banco.santander.cl.paperhands.com.au/1686316960/portada/personas/home.asp
