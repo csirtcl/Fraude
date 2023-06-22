@@ -1,0 +1,20 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00838-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+apache@website2.com
+----------------------------------------------------------------
+[45.236.129.199]
+
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+[107.190.131.66]
+https://www.hopgia.vn/upload/news/activacion/cuenta-kzy/
+https://homefogastadp.info/1687449138/imagenes/_personas/home/default.asp
