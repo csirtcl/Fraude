@@ -1,0 +1,20 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00840-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+apache@ondura.com
+----------------------------------------------------------------
+[168.232.165.232]
+
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+[107.190.131.66]
+https://proracingsimuladores.com.br/plugins/activacion/cuenta-ky/
+https://homefogastadp.info/1687538630/imagenes/_personas/home/default.asp
