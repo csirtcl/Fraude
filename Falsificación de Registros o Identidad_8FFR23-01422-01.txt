@@ -1,0 +1,12 @@
+CSIRT-CL
+
+IoC's de Falsificación de Registros o Identidad
+Informe Codigo:8FFR23-01422-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+[93.95.225.248]
+http://xmmh.me/Zeqbmv
+https://infoswift.live/correos_cl/?cep=
