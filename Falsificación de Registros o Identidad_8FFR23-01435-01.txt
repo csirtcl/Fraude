@@ -1,0 +1,13 @@
+CSIRT-CL
+
+IoC's de Falsificación de Registros o Identidad
+Informe Codigo:8FFR23-01435-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+[199.36.158.100]
+https://bit.ly/3omdStp
+http://134.209.150.51/2d8315d649d3fa31041dcde68f71b60b/f07298483f862fd852579faaefa696be?p=indk
+https://estado-cuotas.web.app/?source=
