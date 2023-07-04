@@ -1,0 +1,11 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00844-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+[198.16.63.250]
+https://bafybeidi6jnktkimxnekniyoxskh6tddudimtadfyhvtn7ifyekais76em.ipfs.cf-ipfs.com/common/oauth2/?authoriseclient_id=4315ab9-913as3-40a0u-a4ut6-3536ade03&redirect_uri=https%3A%2F%2Fwww.office.com%2Flanding&response_type=code%20id_token&scope=openid%20profile&response_mode=form_post&nonce=637471761361998550.YTE5MmQzYzMtNTg2MS00NzQ4LTg5ZWQtOWQ3OGJiMjQ1MmE0MmUxOTg5NTQtYjFkOC00ZjhiLTlmMTUtMGE4ZTA0NWQyNzI2&ui_locales=en-US&mkt=en-US&client-request-id=68f9d7da-5456-46658e-88as69ads-06sad18ads19dsa076edb&state=Kck8msXjhXilh8v4_zjTdU2Y8mdE3_0__tttyi04kcOXzJoTHhQ1svBKB-jRrfgaTOJmXRCbtJ4MhyVHer_lbBxIQc1fngPy2KQ1PDy2bRhgW_B3CQiu4mC74gX2xXAL6ED040X0fitKWb16s7_lvfa_dHgwLhDdAj8YYTfOkJ-i_gR_Vwq9JV-PmXDli6FPm9jIY96qfojSHj9E_eYH4gsoIRDeKVRNQ456O12eZeHh8XklcKhwhMC0I5RWqoreJnf8ulumuhrlbzuxmIXBiQ&x-client-SKU=ID_NETSTANDARD2_0&x-client-ver=6.8.0.0
