@@ -1,0 +1,12 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00847-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+[198.16.63.250]
+https://cl.correos.ktnsa.top
+https://cl.correos.ktnsa.top
