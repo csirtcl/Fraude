@@ -1,0 +1,21 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00856-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+ltelevadromng@edesp-sitesnovale-srvcpanel02-lw.cloudbr.net
+----------------------------------------------------------------
+[186.202.136.11]
+
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+[107.190.131.66]
+https://bit.ly/43wntwz?l=www.santander.cl
+https://nationaltreasures.co.nz/bancosantander/cuenta-hzkh/
+https://banco.santander-cl.martinezlawaz.com/1689779198/portada/personas/home.asp
