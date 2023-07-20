@@ -1,0 +1,20 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00857-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+apache@huacha.com
+----------------------------------------------------------------
+[170.239.85.231]
+
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+[64.37.50.234]
+https://lolocontac.com/activacion/cuenta-qgah/
+https://bandafongape.com/1689790630/imagenes/_personas/home/default.asp
