@@ -1,0 +1,18 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-008458-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+
+----------------------------------------------------------------
+[181.115.186.158]
+
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+https://firebasestorage.googleapis.com/v0/b/ssssss-f1c45.appspot.com/o/index.html?alt=media&token=06c585b1-eaf3-41bb-aa62-8de7b951d893
