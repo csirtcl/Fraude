@@ -1,0 +1,11 @@
+CSIRT-CL
+
+IoC's de Falsificación de Registros o Identidad
+Informe Codigo:8FFR23-01473-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+104.21.7.81
+https://mitarjetacencosud.dashboard-cl.sbs/1690214088/login/index.html
