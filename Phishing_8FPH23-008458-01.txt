@@ -1,14 +1,14 @@
 CSIRT-CL
 
 IoC's de Phishing
-Informe Codigo:8FPH23-008458-01
+Informe Codigo:8FPH23-00858-01
 TLP: Blanco
 Nivel Riesgo: Alto
 
 Remitentes de Correo y Host SMTP
 ----------------------------------------------------------------
 
-
+posgrado@uto.edu.bo
 ----------------------------------------------------------------
 [181.115.186.158]
 
