@@ -1,0 +1,12 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00863-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+[162.240.110.92]
+https://avengerpatitos.com/activacion/cuenta-ezez/
+https://xank.cf/1690465690/imagenes/_personas/home/default.asp
