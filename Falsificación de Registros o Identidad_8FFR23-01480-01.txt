@@ -1,0 +1,13 @@
+CSIRT-CL
+
+IoC's de Falsificación de Registros o Identidad
+Informe Codigo:8FFR23-01480-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+[217.16.182.250]
+[85.132.152.223]
+https://supermercado-rofil.webnode.page/
+https://supermercado-rofil6.webnode.page/
