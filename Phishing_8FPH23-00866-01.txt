@@ -1,0 +1,17 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00866-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+vemrgnc@guardiacivil.es
+----------------------------------------------------------------
+[19.66.113.61]
+
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
