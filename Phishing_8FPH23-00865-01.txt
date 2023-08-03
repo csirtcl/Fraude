@@ -1,0 +1,12 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00865-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+[43.135.156.208]
+https://correoscl1.icu/?token=Gnmn0Kuf5PVfJezf
+https://cutt.ly/fwsn4r2G
