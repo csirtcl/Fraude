@@ -1,0 +1,20 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00864-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+info@omkeo.com
+----------------------------------------------------------------
+[88.209.206.253]
+
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+[162.240.110.92]
+https://ipfs.io/ipfs/QmZVEKRa6hBBKrmPZ8QTXdQ59HxZ2Rt853Kn2Bq1azE6k1?filename=Upgrade80923.html#test@csirt.gob.cl&c=E,1,EK11F056kt_lPddersxFiIDwKxMHbt4os81NGAldJjrc5hfbRRFXAFzEjzLL3StRBgkdvhF4VoNwDs8PhzfR2ZBQo1eaj5TAb3pb3ykjHEM,&typo=1&data=05|01|test@csirt.gob.cl|77121cea35cf4f45d98808db8f58edd2|b71dc67ef57148469db81264f14ea88b|1|0|638261384379089655|Unknown|TWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0=|0|||&sdata=FK3QQdHosLaKTfqJE7eXB58a1OCrkFnCiKkhnUhDMvQ=&reserved=0
+https://ipfs.io/ipfs/QmZVEKRa6hBBKrmPZ8QTXdQ59HxZ2Rt853Kn2Bq1azE6k1?filename=Upgrade80923.html#test@csirt.gob.cl
