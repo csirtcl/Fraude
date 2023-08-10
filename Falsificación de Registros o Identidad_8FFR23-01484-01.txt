@@ -1,0 +1,12 @@
+CSIRT-CL
+
+IoC's de Falsificación de Registros o Identidad
+Informe Codigo:8FFR23-01484-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+146.190.58.89
+https://tarjetacencosudcilenlinea.vidayestilomx.com/cl/Accesa/MTkwLjU0LjE2LjEzMw==/Clentes/
+N/A
