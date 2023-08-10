@@ -1,0 +1,20 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00873-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+cjcmanagementcom@sau-5fe37-or.servercontrol.com.au
+----------------------------------------------------------------
+
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+162.222.225.250
+https://banco-santander-cl.ifptwe[.]com/1691501034/portada/personas/home.asp
+https://bit[.]ly/3KxE2RU?l=www.santander.cl
+https://www.nationaltreasures[.]co.nz/bancosantander/cuenta-bvri/
