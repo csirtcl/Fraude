@@ -1,0 +1,19 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00877-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+apache@vmi1415178.contaboserver.net
+----------------------------------------------------------------
+
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+64.37.50.122
+https://jjfogape[.]com/1692299796/imagenes/_personas/home/default.asp
+https://homefogastadp[.]info/activacion/cuenta-oszr/
