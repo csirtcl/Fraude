@@ -1,0 +1,19 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00875-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+forinc@server2.fishbonesecurity.com
+----------------------------------------------------------------
+
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+209.205.218.2
+http://banco-santander-cl.ctisupplies[.]co.ke/1692019109/portada/personas/home.asp
+http://wordpress.zuliatec[.]com.ve/bancosantander/cuenta-dhqq/
