@@ -1,0 +1,11 @@
+CSIRT-CL
+
+IoC's de Falsificación de Registros o Identidad
+Informe Codigo:8FFR23-01498-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+64.37.50.122
+https://www.prestamopromoibk[.]com/1692300307/imagenes/_personas/home/default.asp
