@@ -1,0 +1,20 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00883-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+apache@vmi1432184.contaboserver.net
+----------------------------------------------------------------
+185.211.5.129
+
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+104.21.84.52
+https://viazonasegura[.]club/1693576882/imagenes/_personas/home/default.asp
+https://zongfagape[.]com/activacion/cuenta-tlqg/
