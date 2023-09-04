@@ -1,0 +1,20 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00880-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+apache@vmi1431217.contaboserver.net
+----------------------------------------------------------------
+89.116.26.117
+
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+107.190.131.66
+https://homefogastadp[.]info/1693234269/imagenes/_personas/home/default.asp
+https://senstadolinea[.]info/activacion/cuenta-zuku/
