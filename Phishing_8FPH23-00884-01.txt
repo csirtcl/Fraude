@@ -1,0 +1,20 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00884-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+apache@vmi1414405.contaboserver.net
+----------------------------------------------------------------
+89.116.25.66
+
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+107.190.131.66
+https://senstadolinea[.]info/1693577583/imagenes/_personas/home/default.asp
+https://humanbalance[.]com.co/activacion/cuenta-ukqk/
