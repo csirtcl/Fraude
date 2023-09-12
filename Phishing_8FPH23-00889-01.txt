@@ -1,0 +1,20 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00889-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+stars6391@server.tclrecruitment.co.uk
+----------------------------------------------------------------
+198.211.27.245
+
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+192.232.216.135
+https://bancofalabella-cl.fandgplasteringinc[.]com/1694441282/home
+https://sempel[.]com.br/bancofalabella/cuenta-ceto/
