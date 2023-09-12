@@ -1,0 +1,20 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00887-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+web-user@srv-a-de.c-593.maxcluster.net
+----------------------------------------------------------------
+62.113.231.189
+
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+108.167.168.18
+https://bancofalabella-cl.franciscopaesbarreto[.]com/1694004169/home
+https://sempel[.]com.br/bancofalabella/cuenta-jvzw/
