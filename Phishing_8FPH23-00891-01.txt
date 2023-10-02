@@ -1,0 +1,20 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00891-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+apache@vmi1418987.contaboserver.net
+----------------------------------------------------------------
+89.116.25.90
+
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+107.180.26.179
+http://prevemed[.]com.ar/1694523759/imagenes/_personas/home/default.asp
+https://promezclas[.]com/activacion/cuenta-wckh/
