@@ -1,0 +1,20 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00892-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+apache@tapisol.net.net
+----------------------------------------------------------------
+168.232.165.126
+
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+107.180.26.179
+http://prevemed[.]com.ar/1695241888/imagenes/_personas/home/default.asp
+https://promezclas.com/activacion/cuenta-wckh/
