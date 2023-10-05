@@ -1,0 +1,20 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00895-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+apache@hdr-nlb8-39c51fa8696874ee.elb.us-east-1.amazonaws.com
+----------------------------------------------------------------
+207.246.107.36
+
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+107.190.131.66
+https://prsonasantnder[.]bio/1696344931/imagenes/_personas/home/default.asp
+https://codeundestado[.]com/activacion/cuenta-padw/
