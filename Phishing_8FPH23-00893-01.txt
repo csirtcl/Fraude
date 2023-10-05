@@ -1,0 +1,20 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00893-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+apache@seudifree.com.com
+----------------------------------------------------------------
+207.246.105.144
+
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+107.190.131.66
+https://prsonasantnder[.]bio/1695646434/imagenes/_personas/home/default.asp
+https://codeundestado[.]com/activacion/cuenta-padw/
