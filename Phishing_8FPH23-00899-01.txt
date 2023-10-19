@@ -1,0 +1,20 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00899-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+wang3chen@gmail.com
+support@bitcoin-farming.com
+----------------------------------------------------------------
+103.54.59.165
+
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+104.17.64.14
+https://cloudflare-ipfs.com/ipfs/QmdFYTYL7nVVhP2wHjZdaDsW6BykiLwS6vLA8WHPXh7ueg?filename=sat-desktop.html#csirt@interior.gob.cl
