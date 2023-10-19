@@ -1,0 +1,20 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00897-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+apache@tapisol.net.net
+----------------------------------------------------------------
+168.232.165.126
+
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+65.181.111.11
+https://patito.jimwallermarketing[.]com/1696942336/imagenes/_personas/home/default.asp
+https://promezclas[.]com/activacion/cuenta-wckh/
