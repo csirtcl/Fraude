@@ -1,0 +1,19 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00900-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+helpdesk-team@invaldomain.com
+----------------------------------------------------------------
+185.38.142.213
+
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+52.84.18.55
+https://dev3549.d1tk2ykv7b1ejd.amplifyapp.com/webmails.html#test @csirt.gob.cl
