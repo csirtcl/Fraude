@@ -1,0 +1,11 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00902-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+74.125.201.95
+https://firebasestorage.googleapis[.]com/v0/b/service-fb5bc.appspot.com/o/index.html?alt=media&token=fc37b251-fb15-450d-9a3c-773bd19640f0
