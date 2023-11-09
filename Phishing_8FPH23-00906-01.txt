@@ -1,0 +1,20 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00906-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+apache@vmi1486739.contaboserver.net
+----------------------------------------------------------------
+144.91.126.255
+
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+64.37.50.234
+https://vcrawford2[.]com/1699535995/imagenes/_personas/home/default.asp
+https://enelvalpa[.]com/activacion/cuenta-wpgk/
