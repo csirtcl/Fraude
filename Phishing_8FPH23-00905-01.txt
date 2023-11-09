@@ -1,0 +1,19 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00905-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+noreply@bst.ppmhospital.com
+----------------------------------------------------------------
+91.92.242.139
+
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+104.18.3.35
+https://pub-f9c256ae09374af7aea1e69a3ba45cc8.r2[.]dev/onedrive-51985623vbnndpl0000000plasvbnt.html#
