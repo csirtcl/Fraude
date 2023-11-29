@@ -1,0 +1,20 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00909-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+apache@floridabeach.net
+----------------------------------------------------------------
+45.236.129.92
+
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+192.185.120.230
+https://serviestadohome[.]info/1699967769/imagenes/_personas/home/default.asp
+https://controltotalpro[.]com/activacion/cuenta-gokl/
