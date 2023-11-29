@@ -1,0 +1,20 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00910-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+apache@vmi1486944.contaboserver.net
+----------------------------------------------------------------
+185.245.183.12
+
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+192.185.120.230
+https://patito.universalsantiveri[.]com/1700234370/imagenes/_personas/home/default.asp
+https://controltotalpro[.]com/activacion/cuenta-gokl/
