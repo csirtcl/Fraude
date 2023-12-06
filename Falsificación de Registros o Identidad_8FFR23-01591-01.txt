@@ -1,0 +1,12 @@
+CSIRT-CL
+
+IoC's de Falsificación de Registros o Identidad
+Informe Codigo:8FFR23-01591-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+104.18.3.35
+https://pub-8b2e521eb2614610923cd588ec283661.r2.dev/ee.html#yxzhbmvnyxnabgfjyw1hcmfkzxf1axrvlmnvbq==
+https://jmgac[.]cl/fo/fo1/172.27.184.69/yxzhbmvnyxnabgfjyw1hcmfkzxf1axrvlmnvbq==?src=insideemail-ironplanet-072523&utm_source=pet&utm_medium=email&utm_campaign=ip-mpe-072523
