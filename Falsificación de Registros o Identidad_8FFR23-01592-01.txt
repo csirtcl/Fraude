@@ -1,0 +1,12 @@
+CSIRT-CL
+
+IoC's de Falsificación de Registros o Identidad
+Informe Codigo:8FFR23-01592-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+54.84.157.136
+https://alsafua[.]com/red.html#
+https://military-olivine-gravity.glitch.me/zmbr.html#
