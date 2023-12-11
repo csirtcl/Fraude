@@ -1,0 +1,20 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00913-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+apache@vmi1511853.contaboserver.net
+----------------------------------------------------------------
+158.220.101.125
+
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+198.27.78.113
+https://patitojouxstores[.]com/1701872777/imagenes/_personas/home/default.asp
+https://contrystadosuport[.]com/activacion/cuenta-funb/
