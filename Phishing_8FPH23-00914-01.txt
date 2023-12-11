@@ -1,0 +1,20 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00914-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+apache@vmi1507286.contaboserver.net
+----------------------------------------------------------------
+38.242.141.83
+
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+198.27.78.113
+https://consumo60cuotashome[.]com/1702299489/imagenes/_personas/home/default.asp
+https://contrystadosuport[.]com/activacion/cuenta-funb/
