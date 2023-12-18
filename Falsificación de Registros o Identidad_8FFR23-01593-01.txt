@@ -1,0 +1,11 @@
+CSIRT-CL
+
+IoC's de Falsificación de Registros o Identidad
+Informe Codigo:8FFR23-01593-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+172.66.47.102
+https://crecemujer-bestado[.]pages.dev/?cvid=rja&gXeq1HKSZL3GwTO0rIpzBQ5nJV4l7dmMtC2xUPfovNWA9FyjuaihD8ERYc6bsk
