@@ -1,0 +1,12 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00917-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+170.106.158.50
+https://clpotosenloy[.]info/
+https://s[.]id/1Zfb9
