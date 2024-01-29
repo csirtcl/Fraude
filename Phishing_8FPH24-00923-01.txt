@@ -1,0 +1,20 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH24-00923-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+apache@vmi1594082.contaboserver.net
+----------------------------------------------------------------
+194.163.131.112
+
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+192.185.138.178
+https://patito.theaerie[.]ca/1705514405/imagenes/_personas/home/default.asp
+https://procontroltotal[.]com/activacion/cuenta-ajwh/
