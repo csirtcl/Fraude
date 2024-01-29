@@ -1,0 +1,12 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH23-00919-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+162.241.85.202
+https://support-appmlbancochile.bovgn5[.]online/1704727026/bchile-web/persona/login/index.html/login
+https://bit[.]ly/appmibanco
