@@ -1,0 +1,20 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH24-00921-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+apache@vmi1594082.contaboserver.net
+----------------------------------------------------------------
+194.163.131.112
+
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+186.64.116.145
+https://ucerhometadoscl[.]com/1704982755/imagenes/_personas/home/default.asp
+https://patitoqxshometado[.]com/activacion/cuenta-ildd/
