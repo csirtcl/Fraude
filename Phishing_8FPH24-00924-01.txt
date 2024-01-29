@@ -1,0 +1,20 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH24-00924-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+apache@vmi1611148.contaboserver.net
+----------------------------------------------------------------
+84.247.167.213
+
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+192.185.138.178
+https://fogape.theaerie[.]ca/1706111130/imagenes/_personas/home/default.asp
+https://maximocontaval[.]com/activacion/cuenta-kaoi/
