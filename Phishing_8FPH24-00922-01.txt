@@ -1,0 +1,20 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH24-00922-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+apache@mirkifarm.net.net
+----------------------------------------------------------------
+45.7.231.170
+
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+38.242.247.3
+https://patito.sesxpressx[.]sa.com/1705494947/imagenes/_personas/home/default.asp
+https://procontroltotal[.]com/activacion/cuenta-ajwh/
