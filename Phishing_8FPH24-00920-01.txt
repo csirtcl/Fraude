@@ -1,0 +1,20 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH24-00920-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+apache@tomaswey.com
+----------------------------------------------------------------
+45.236.129.42
+
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+199.188.200.192
+https://ifepatito.khansouq[.]com/1704804454/imagenes/_personas/home/default.asp
+https://www.cajaabogadossanjuan[.]org.ar/activacion/cuenta-acbv/
