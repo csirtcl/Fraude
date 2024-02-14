@@ -1,0 +1,19 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH24-00928-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+viviana.ramos@heg.gob.ec
+----------------------------------------------------------------
+186.47.84.20
+
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+172.64.153.183
+https://ghambly.ac-page[.]com/untitled1009
