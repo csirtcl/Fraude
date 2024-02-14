@@ -1,0 +1,19 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH24-00927-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+gquintana@episcopado.cl
+----------------------------------------------------------------
+146.155.99.52
+
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+104.21.90.194
+https://share.formbold[.]com/6M7G7
