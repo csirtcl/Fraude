@@ -1,0 +1,11 @@
+CSIRT-CL
+
+IoC's de Falsificación de Registros o Identidad
+Informe Codigo:8FFR24-01649-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+162.240.170.105
+https://verfication.idsmcverific[.]store/signin?verify=cr51_b7b90537cad47dbfa10d4c50b80d090b
