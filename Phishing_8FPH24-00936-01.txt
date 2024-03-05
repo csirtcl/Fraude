@@ -1,0 +1,20 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH24-00936-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+dh_rnxkhu@vps55071.dreamhostps.com
+----------------------------------------------------------------
+75.119.221.11
+
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+104.21.47.4
+https://mitarjetacencosud-cl-mitarjetacencosud-cl-mitarjetacencosud-cl.aumentos-chile-cl[.]life/1709563097/login/index.html
+https://aumento-cupos-cencosud.cupo-ripley[.]one/?https://www.mitarjetacencosud.cl/dashboard
