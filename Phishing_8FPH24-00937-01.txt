@@ -1,0 +1,20 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH24-00937-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+info@sobejge.ooguy.com
+----------------------------------------------------------------
+185.33.85.49
+
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+172.67.169.242
+https://profile.classers.shop/administration.html?mail={mail}
+https://linkedin.com+accounts%3Dsecurelogin+settings%3Dprivate@profile.classers.shop/administration.html?mail={mail}
