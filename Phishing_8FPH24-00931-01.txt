@@ -1,0 +1,20 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH24-00931-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+noreply@publimailer.com
+----------------------------------------------------------------
+179.43.126.225
+
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+192.185.138.178
+https://wwwbancoestadocl.theaerie[.]ca/1708528751/imagenes/_personas/home/default.asp
+https://underconcentral[.]com/activacion/cuenta-qdur/
