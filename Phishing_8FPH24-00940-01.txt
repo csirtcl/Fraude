@@ -1,0 +1,20 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH24-00940-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+noresponder@correos.cl
+----------------------------------------------------------------
+159.65.196.200
+
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+104.21.4.92
+https://correos-cl-seguimiento.correos-cl[.]sbs/seguimiento/seguimiento/seguimiento.html
+https://del-norte[.]autos/correos?https://www.correos.cl/documents/20123/33943275/
