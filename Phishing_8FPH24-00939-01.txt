@@ -1,0 +1,21 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH24-00939-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+orocha@yotateam[.]com.ni
+----------------------------------------------------------------
+190.181.132.230
+
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+192.185.129.195
+https://careclub.or[.]ke/zti/#{correo}
+https://www.google[.]is/amp/s/be%E3%80%82co%E3%80%82mz%2Fsgn%2F/K3YMYGVJ_224487825%2FY2NtYXJpbkBpbnRlcmlvci5nb2IuY2w=
+https://be.co[.]mz/sgn//K3YMYGVJ_224487825/Y2NtYXJpbkBpbnRlcmlvci5nb2IuY2w=
