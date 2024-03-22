@@ -1,0 +1,20 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH24-00929-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+apache@vmi1654081.contaboserver.net
+----------------------------------------------------------------
+173.249.36.97
+
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+162.0.220.139
+https://wwwbanc0chil3com.shahanshasports[.]com/1708090726/imagenes/_personas/home/default.asp
+https://maximocontaval[.]com/activacion/cuenta-kaoi/
