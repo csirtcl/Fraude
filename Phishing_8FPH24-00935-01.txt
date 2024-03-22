@@ -1,0 +1,21 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH24-00935-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+apache@vmi1682199.contaboserver.net
+----------------------------------------------------------------
+5.189.177.117
+
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+198.27.78.113
+https://wwwstcursomasxfors[.]com/1709230736/imagenes/_personas/home/default.asp
+https://unloackrtmconders[.]com/activacion/cuenta-nioj/
+https://bestad0[.]cf/personas_bancoestado/
