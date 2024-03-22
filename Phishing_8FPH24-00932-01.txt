@@ -1,0 +1,19 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH24-00932-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+bzuniga@dinaf.gob.hn
+----------------------------------------------------------------
+179.43.126.225
+
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+181.210.30.114
+https://websencenivec.wapka[.]co/
