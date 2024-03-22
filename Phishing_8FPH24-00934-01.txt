@@ -1,0 +1,20 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH24-00934-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+apache@vmi1677083.contaboserver.net
+----------------------------------------------------------------
+109.199.116.10
+
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+122.201.66.57
+https://patito.larissakovalchuk[.]com/1709133127/imagenes/_personas/home/default.asp
+https://maximocontaval[.]com/activacion/cuenta-kaoi/
