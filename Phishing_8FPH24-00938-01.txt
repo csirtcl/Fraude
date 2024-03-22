@@ -1,0 +1,20 @@
+CSIRT-CL
+
+IoC's de Phishing
+Informe Codigo:8FPH24-00938-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+Remitentes de Correo y Host SMTP
+----------------------------------------------------------------
+
+apache@vmi1641579.contaboserver[.]net
+----------------------------------------------------------------
+5.189.142.106
+
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+62.210.114.93
+https://mi-tarjetacencosud-cl.itsdjlucky[.]com/
+https://sam-tech[.]jp/cencosud/superavance-jqes/
